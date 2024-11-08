@@ -1,5 +1,5 @@
 # 👾 Hi! My name is Gabriele
-I am a Computer Engineering Graduate from Italy :it: and I have fun coding stuff.
+**I am a Computer Engineering Graduate from Italy :it: and I have fun coding stuff.**
 
 ## 📭 Contacts
 - [Linkedin](https://www.linkedin.com/in/gabrielebnc/)
